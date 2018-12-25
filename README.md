@@ -1,1 +1,1 @@
-# ssmgr_update
+# ssmgr-update
